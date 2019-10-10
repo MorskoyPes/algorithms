@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>test_task</name>
+    <url>http://test_task/</url>
+    <root>home/test_task</root>
+  </project>
+</winginx>
