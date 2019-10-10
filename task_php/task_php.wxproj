@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>task_php</name>
+    <url>http://task_php/</url>
+    <root>home/task_php</root>
+  </project>
+</winginx>
